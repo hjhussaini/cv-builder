@@ -1,0 +1,98 @@
+introduction:
+    photo: images/hajihussaini.jpg
+    first_name: Amir Hussain
+    last_name: Haji Hussaini
+    headline: Software Engineer (Golang)
+    country:
+        name: Islamic Republic of Iran
+contact:
+    linkedin: linkedin.com/in/hajihussaini
+    email: hajihosseini.hamed@gmail.com
+    mobile: +98 913 8570356
+    skype: hjhussaini
+about:
+    - I am a senior software enginer who started working in 2011 and during these years I have been developing commercial and industrial applications.
+    - I am interested in microservices and cloud native applications, as well as machine learning and deep learning.
+    - I am passionate about learning new technologies, tools and algorithms.
+skills:
+    - Cloud Native Developer
+    - Back-end Engineer
+    - System Analysis
+    - Team Work
+tools_technologies:
+    - Linux
+    - C++
+    - Go
+    - CGo
+    - Python
+    - gRPC
+    - Git
+    - Docker Products
+    - SQLite - MySQL - PostgreSQL
+    - Redis - MongoDB - Cassandra
+    - RabbitMQ - Kafka - Nats
+    - ElasticSearch
+experience:
+    - tittle: C++ Software Enginner & Back-end Go Developer
+      employment_type: Full-time
+      company: Afrabon Co.
+      location: Yazd, Iran
+      start_date: Dec 2017
+      end_date: Present
+      description:
+          - Responsible for implementing, developing, maintaining VSort application.
+    - tittle: C++ Software Engineer
+      employment_type: Freelance
+      company: Kaman Co.
+      location: Tehran, Iran
+      start_date: Feb 2017
+      end_date: Dec 2017
+      description:
+    - tittle: C++ Software Engineer
+      employment_type: Full-time
+      company: PDNSoft Co.
+      location: Yazd, Iran
+      start_date: Dec 2011
+      end_date: Oct 2016
+      description: 
+          - "Working in the PVM team of PDNSoft Co.Responsibilities of the team are:"
+          - Implemneting, developing and maintaining PVM application and developing/improving and documenting PVM (developed with C++).
+education:
+    - school: Shahid Bahonar Collage
+      degree: Bachelor's
+      field: Software Engineering
+      start_year: 2007
+      end_year: 2009
+accomplishments:
+    languages:
+        - language: English
+          proficiency: Professional working
+        - language: Arabic
+          proficiency: Elementary
+        - language: Persian
+          proficiency: Native or bilingual
+    projects:
+        - name: PVM
+          start_date: 
+          end_date: 
+          creator: PDNSoft Co.
+          associated_with: 
+          url: 
+          description:
+              - PVM is a KVM based hypervisor cluster to establish a group of hypervisors that span physical servers.
+        - name: VSort
+          start_date: 
+          end_date: 
+          creator: Afrabon Co.
+          associated_with: 
+          url: 
+          description:
+              - VSort is an AI based stone sorting machine using image processing and deep learning to sort natural stones according to their colors and textures.
+        - name: Storage
+          start_date: 
+          end_date: 
+          creator: Hamed Haji Hussaini
+          associated_with: 
+          url: https://github.com/hjhussaini/storage
+          description:
+              - A Go RESTful API service to upload files to storages like DropBox.
